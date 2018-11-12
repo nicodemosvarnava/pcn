@@ -9,9 +9,9 @@ partial Chern vector along the k_1 x k_2 direction.
 
 For the implementation of pcn see:
 
-[1] T. Rauch, T. Olsen, D. Vanderbilt, and I. Souza, "Geometric and nongeometric contributions to the surface anomalous Hall conductivity," [Phys. Rev. B 98, 115108 (2018)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.115108).
+[1] T. Rauch, T. Olsen, D. Vanderbilt, and I. Souza, "Geometric and nongeometric contributions to the surface anomalous Hall conductivity," [Phys. Rev. B 98, 115108 (2018)](https://doi.org/10.1103/PhysRevB.98.115108).
 
-[2] N. Varnava and D. Vanderbilt, "Surfaces of axion insulators," arXiv:1809.02853.
+[2] N. Varnava and D. Vanderbilt, "Surfaces of axion insulators," [arXiv:1809.02853](https://arxiv.org/abs/1809.02853).
 
 
 **pcn_example.py**
@@ -20,6 +20,6 @@ Example usage of pcn.py for the calculation of the partial Chern number of a spi
 
 For the axion insulator model see:
 
-[3] T.L. Hughes, E. Prodan, and B.A. Bernevig, "Inversion-symmetric topological insulators," Phys. Rev. B 83, 245132 (2011).
+[3] T.L. Hughes, E. Prodan, and B.A. Bernevig, "Inversion-symmetric topological insulators," [Phys. Rev. B 83, 245132 (2011)](https://doi.org/10.1103/PhysRevB.83.245132).
 
 
