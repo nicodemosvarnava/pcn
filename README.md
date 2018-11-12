@@ -9,7 +9,7 @@ partial Chern vector along the k_1 x k_2 direction.
 
 For the implementation of pcn see:
 
-[1] T. Rauch, T. Olsen, D. Vanderbilt, and I. Souza, "Geometric and nongeometric contributions to the surface anomalous Hall conductivity," Phys. Rev. B 98, 115108 (2018).
+[1] T. Rauch, T. Olsen, D. Vanderbilt, and I. Souza, "Geometric and nongeometric contributions to the surface anomalous Hall conductivity," [Phys. Rev. B 98, 115108 (2018)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.115108).
 
 [2] N. Varnava and D. Vanderbilt, "Surfaces of axion insulators," arXiv:1809.02853.
 
