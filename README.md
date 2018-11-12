@@ -3,7 +3,7 @@ This is an extention package of PythTB, a package used to simulate crystal struc
 
 **pcn.py**
 
-Routine c_l(my_model,n_occ) calculates the partial Chern number C(l) for each orbital l of a spinor slab model (extended in two direction and finite in the third) provided the number of occupied bands.
+This script contains routine c_l(my_model,n_occ) which calculates the partial Chern number C(l) for each orbital l of a spinor slab model (extended in two direction and finite in the third) provided the number of occupied bands.
 The routine assumes dim_k=2 while dim_r=2(one layer) or 3(many layers) and C(l) corresponds to the component of the 
 partial Chern vector along the k_1 x k_2 direction.
 
