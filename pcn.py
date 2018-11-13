@@ -28,7 +28,7 @@ def c_l(my_model,n_occ):
 
     # generate uniform k-mesh
     kpts_uni=[]
-    n_k = kmesh*kmesh
+    n_k = (kmesh+1)*(kmesh+1)
     sym_kmesh = int(kmesh/2)
     for i in range(kmesh+1):
         for j in range(kmesh+1):
