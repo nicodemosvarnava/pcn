@@ -28,10 +28,10 @@ def c_l(my_model,n_occ):
 
     # generate uniform k-mesh
     kpts_uni=[]
-    n_k = (kmesh+1)*(kmesh+1)
+    n_k = kmesh*kmesh
     sym_kmesh = int(kmesh/2)
-    for i in range(kmesh+1):
-        for j in range(kmesh+1):
+    for i in range(kmesh):
+        for j in range(kmesh):
             k_vec = [(-sym_kmesh+float(i))/float(kmesh),(-sym_kmesh+float(j))/float(kmesh)]
             kpts_uni.append(k_vec)
 
