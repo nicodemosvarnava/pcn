@@ -1,4 +1,4 @@
-# pcn
+#pcn
 This is an extention package of PythTB, a package used to simulate crystal structures using the tight-binding approximation.  See http://physics.rutgers.edu/pythtb/.
 
 **pcn.py**
@@ -14,7 +14,7 @@ For the implementation of pcn see:
 [2] N. Varnava and D. Vanderbilt, "Surfaces of axion insulators," [arXiv:1809.02853](https://arxiv.org/abs/1809.02853).
 
 
-**pcn_example.py**
+**Demo/pcn_example.py**
 
 Example usage of pcn.py for the calculation of the partial Chern number of a spinor slab model of an axion isnulator. After the C(l) list is calculated, the routine plots the pcn density and integrated pcn in a single output PDF.
 
