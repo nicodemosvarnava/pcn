@@ -12,7 +12,7 @@ For the implementation of pcn see:
 [1] T. Rauch, T. Olsen, D. Vanderbilt, and I. Souza, "Geometric and nongeometric contributions to the surface anomalous Hall conductivity," [Phys. Rev. B 98, 115108 (2018)](https://doi.org/10.1103/PhysRevB.98.115108).
 
 [2] N. Varnava and D. Vanderbilt, "Surfaces of axion insulators," [arXiv:1809.02853](https://arxiv.org/abs/1809.02853).
-
+(please cite this paper if you use this code in a scientific publication)
 
 **Demo/pcn_example.py**
 
